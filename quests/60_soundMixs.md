@@ -1,0 +1,1 @@
+[사운드](https://github.com/Hansol1004/toylearn_AI_multimedias/blob/main/quests/60_soundMixs.mp3)
