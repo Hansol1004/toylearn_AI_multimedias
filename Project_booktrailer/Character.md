@@ -1,1 +1,0 @@
-[캐릭터](https://labs.google/fx/tools/whisk/share/3vcujag04g000) : 페니
