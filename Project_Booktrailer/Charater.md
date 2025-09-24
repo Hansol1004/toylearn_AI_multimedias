@@ -1,0 +1,1 @@
+[캐릭터](https://labs.google/fx/ko/tools/whisk/share/372lglnrh0000)

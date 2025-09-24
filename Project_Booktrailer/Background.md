@@ -1,0 +1,2 @@
+- [내부모습](https://labs.google/fx/ko/tools/whisk/share/4jm4rghcc0000)
+- [외부모습](https://labs.google/fx/ko/tools/whisk/share/6unc17huog000)
