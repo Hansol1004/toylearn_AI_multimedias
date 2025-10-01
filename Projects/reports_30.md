@@ -62,3 +62,9 @@ S#4. 미션 성공 및 마무리 (70초 ~ 90초)
 85-90초	FINAL SHOT: 얕은 물가에서 아이들이 선생님과 함께 카메라를 보며 환하게 손을 흔든다. 화면이 햇살처럼 밝게 빛나며 마무리된다.	(음악) BGM이 클라이맥스에 도달하며 페이드아웃된다.	[엔딩 자막] 물놀이는 언제나? ✓ 구명조끼 꼭! ✓ 어른과 함께! ✓ 안전장비 먼저!
 
 ```
+
+## 캐릭터 / 배경
+
+- [캐릭터들](https://labs.google/fx/tools/whisk/share/7ih7tm5cm0000)
+- [배경1](https://labs.google/fx/tools/whisk/share/35grojj4v0000)
+- [배경2](https://labs.google/fx/tools/whisk/share/6cfjaloju0000)
